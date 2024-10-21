@@ -34,3 +34,4 @@ Les contributions sont les bienvenues. Veuillez soumettre vos pull requests sur 
 
 ## Licence
 Cet projet est distribué sous la licence MIT.
+
